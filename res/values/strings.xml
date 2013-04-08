@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">City Life</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="title_activity_buy">BuyActivity</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="editTextHint">Your Message</string>
+    <string name="welcome">Welcome to City Life</string>
+    <string name="buttonSendActivity">Inform Other Users</string>
+    <string name="buttonRegister">Subscribe</string>
+    <string name="buttonSend">Send Your Message</string>
+    <string name="buttonShare">Share an Event</string>
+    <string name="buttonInterests">My Interests</string>
+    <string name="buttonBuy">Buy Now</string>
+    <string name="description">Main Picture</string>
+    <string name="checkBox1">Sports</string>
+    <string name="checkBox2">Theatre</string>
+    <string name="checkBox3">Conference</string>
+    <string name="checkBox4">Opera</string>
+    <string name="checkBox5">Concert</string>
+    <string name="checkBox6">Exhibition</string>
+    <string name="checkBoxLocation">Send this message to people closer to me</string>
+
+    <string-array name="activities_array">
+        <item>Sports</item>
+        <item>Theatre</item>
+        <item>Conference</item>
+        <item>Opera</item>
+        <item>Concert</item>
+        <item>Exhibition</item>
+    </string-array>
+
+
+</resources>
